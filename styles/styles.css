@@ -65,14 +65,22 @@ img {
     text-align: center;
 }
 #tribute-timeline-intro {
-
+    font-size: 50px;
+    padding: 50px 0 50px 0;
 }
 #king-timeline {
-
+    display:block;
+    margin: 0 auto;
+    list-style: square;
+    padding:40px;
 }
 .king-life {
-
+    text-align:justify;
+    padding-bottom: 25px;
 }
 #tribute-bio {
+
+}
+ul {
     
 }
