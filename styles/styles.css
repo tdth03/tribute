@@ -1,0 +1,78 @@
+/* GENERAL STYLES */
+body {
+    background-color:#c6dec6;
+    font-family: sans-serif;
+    color:#020402;
+}
+
+
+/* TOP NAVBAR */
+.navlinks {
+    display: inline-block; 
+    float:left;
+}
+#navtop {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#333;
+}
+li a, li a:link, li a:visited, li a:focus, li a:active {
+    display: block;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #020402;
+}
+
+/* TITLE HEADER & IMAGE*/
+#title {
+    padding: 0 20px 0 20px;
+}
+h1 {
+    font-size: 100px;
+    text-align: center;
+    margin: 40px 0 0 0;
+}
+#title-bio {
+    text-align: center;
+    padding: 12px 0 12px 0;
+}
+#img-div {
+    text-align: center;
+    padding-top:40px;
+    background-color: #a9c5a0;
+}
+img {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#img-caption {
+    padding: 12px 0 12px 0;
+}
+
+/* Biography */
+#tribute-info {
+    text-align: center;
+}
+#tribute-timeline-intro {
+
+}
+#king-timeline {
+
+}
+.king-life {
+
+}
+#tribute-bio {
+    
+}
